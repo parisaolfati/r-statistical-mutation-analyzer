@@ -1,0 +1,5 @@
+# R cache and outputs
+.Rhistory
+.RData
+*.png
+*.xlsx
